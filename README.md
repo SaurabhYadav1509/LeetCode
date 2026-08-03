@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
