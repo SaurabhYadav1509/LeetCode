@@ -11,11 +11,11 @@
  */
 class Solution {
 public:
-void reverseInorder(TreeNode* root, int &sum){
+void reverseInorder(TreeNode* root, int &sum){ // reverse traversal of inorder
     if (root == NULL) return;
     reverseInorder(root->right,sum);
-    root->val += sum;
-    sum = root->val;
+    root->val += sum;                      // root-> val = root->val + sum
+    sum = root->val;                       // ulta chal ke sum
     reverseInorder(root->left,sum);
 }
     TreeNode* bstToGst(TreeNode* root) {
