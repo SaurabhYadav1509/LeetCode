@@ -12,20 +12,33 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
+if (root == NULL) return;
+TreeNode* curr = root;
 
-        if (root == NULL) return;
-        TreeNode* l = root->left;
-        TreeNode* r = root->right;
-        // remove the connection
-        root->left = NULL;
-        root->right = NULL;
-        // flattening the left and right part by recursion
-        flatten(l);
-        flatten(r);
-        root->right = l;
-        
-        TreeNode* temp = root;
-        while(temp->right) temp = temp->right;
-        temp->right = r;
+while(curr != NULL){
+    if (curr->left != NULL){
+        // save the right 
+        TreeNode* r = curr->right;
+        curr->right = curr->left;
+
+        // find the pred
+        TreeNode* pred = curr->left;
+        while(pred->right) pred= pred->right;
+        // link the connection
+        pred->right = r;
+
+        curr = curr->left;
+    }
+    else{
+        curr = curr->right;
+    }
+} 
+    // remove the left link, make it null
+    TreeNode* temp = root;
+    while(temp->right){
+        if (temp->left) temp->left = NULL;
+        temp = temp->right;
+    }
+
     }
 };
