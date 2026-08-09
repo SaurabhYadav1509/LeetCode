@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -180,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
