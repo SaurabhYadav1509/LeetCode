@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1046-last-stone-weight) |
+| [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -240,4 +243,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
