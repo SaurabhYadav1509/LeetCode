@@ -1,37 +1,25 @@
 class Solution {
 public:
-typedef pair<int,int>pi;
     int largestInteger(vector<int>& nums, int k) {
-    int n = nums.size();
-    unordered_map<int,int>mp;
-     
-    int i=0;
-    int j=0;
-    for (int i=0;i<=n-k;i++){
-        unordered_set<int>st;
-        for (int j=i;j<i+k;j++){
-           st.insert(nums[j]);
+        int n = nums.size();
+        if (n==k) return *max_element(nums.begin(),nums.end());
+
+        unordered_map<int,int>mp;
+        for (auto x : nums) mp[x]++;
+
+        // When k = 1, every element forms its own window
+        if (k == 1) {
+            int ans = -1;
+            for (auto x : mp) {
+                if (x.second == 1)
+                    ans = max(ans, x.first);
+            }
+            return ans;
         }
-       for (auto x : st) mp[x]++;
-    }
 
-    priority_queue<pi,vector<pi>,greater<pi>>pq;
-    for (auto x : mp){
-        int ele = x.first;
-        int count = x.second;
-
-        if (count == 1) pq.push({ele,count});
-    }
-
-    if (pq.empty()) return -1;
-    
-    int ans =-1;
-
-    while(!pq.empty()){
-        ans = pq.top().first;
-        pq.pop();
-    }
-
-    return ans;
+        int ans =-1;
+        if (mp[nums[0]] == 1) ans = max(ans,nums[0]);
+        if (mp[nums[n-1]] == 1) ans = max(ans,nums[n-1]);
+        return ans;
     }
 };
