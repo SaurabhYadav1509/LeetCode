@@ -1,49 +1,52 @@
 class Solution {
 public:
-// not need to count duplicates element, ex:3
+    typedef pair<int,int> pi;
+
     int longestConsecutive(vector<int>& nums) {
         
-        priority_queue<int, vector<int>, greater<int>> pq;
-        unordered_set<int> st;
+        priority_queue<pi, vector<pi>, greater<pi>> pq;
+        unordered_map<int,int> mp;
 
-        // Remove duplicates 
+        // Remove duplicates using map
         for (auto x : nums) {
-            st.insert(x);
+            mp[x]++;
         }
 
-        for (auto x : st) {
-            pq.push(x);
+        // Put unique elements into heap
+        for (auto x : mp) {
+            int ele = x.first;
+            int freq = x.second;
+
+            pq.push({ele, freq});
         }
 
         vector<int> ans;
 
         //elements in sorted order
         while (!pq.empty()) {
-            int f = pq.top();
+            int f = pq.top().first;
             pq.pop();
 
             ans.push_back(f);
         }
 
         int n = ans.size();
-
         if (n == 0)
             return 0;
 
-        int count = 1;
+        int c = 1;
         int maxi = 1;
 
         for (int i = 1; i < n; i++) {
-
+            
             if (ans[i - 1] + 1 == ans[i]) {
-                count++;
-                maxi = max(maxi, count);
+                c++;
+                maxi = max(maxi, c);
             }
             else {
-                count = 1;
+                c = 1;
             }
         }
-
         return maxi;
     }
 };
