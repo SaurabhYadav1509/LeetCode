@@ -1,51 +1,24 @@
 class Solution {
 public:
-    typedef pair<int,int> pi;
-
     int longestConsecutive(vector<int>& nums) {
-        
-        priority_queue<pi, vector<pi>, greater<pi>> pq;
-        unordered_map<int,int> mp;
+        int last_small = INT_MIN;
+        int count = 1;
+        int maxi =0;
 
-        // Remove duplicates using map
-        for (auto x : nums) {
-            mp[x]++;
-        }
+        int n = nums.size();
+        if (n == 0) return 0;
 
-        // Put unique elements into heap
-        for (auto x : mp) {
-            int ele = x.first;
-            int freq = x.second;
+        sort(nums.begin(),nums.end());
 
-            pq.push({ele, freq});
-        }
+        for (int i=0; i<n; i++){
 
-        vector<int> ans;
+           if (nums[i]-1 == last_small) count++;
+           // ignore duplicates
+           else if (nums[i] == last_small) continue;
+           else count=1;
 
-        //elements in sorted order
-        while (!pq.empty()) {
-            int f = pq.top().first;
-            pq.pop();
-
-            ans.push_back(f);
-        }
-
-        int n = ans.size();
-        if (n == 0)
-            return 0;
-
-        int c = 1;
-        int maxi = 1;
-
-        for (int i = 1; i < n; i++) {
-            
-            if (ans[i - 1] + 1 == ans[i]) {
-                c++;
-                maxi = max(maxi, c);
-            }
-            else {
-                c = 1;
-            }
+           last_small = nums[i];
+           maxi = max(maxi,count);
         }
         return maxi;
     }
