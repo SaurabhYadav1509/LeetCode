@@ -5,9 +5,6 @@ typedef pair<int,int>pi;
        int n  = arr.size();
 
        vector<int>ans;
-       unordered_map<int,int>mp;
-        for (auto x : arr) mp[x]++;
-
        priority_queue<pi> pq;
       
        for (auto y : arr){
