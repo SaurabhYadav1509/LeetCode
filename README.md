@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3856-trim-trailing-vowels](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Two Pointers
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0415-add-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
