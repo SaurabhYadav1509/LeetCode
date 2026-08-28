@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Array
