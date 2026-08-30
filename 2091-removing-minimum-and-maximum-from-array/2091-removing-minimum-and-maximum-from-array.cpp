@@ -8,15 +8,9 @@ public:
             if (nums[min_idx] > nums[i]) min_idx = i;
             if (nums[max_idx] < nums[i]) max_idx = i;
         }
-        // Make minIndex the smaller index
-        if (min_idx > max_idx) {
-            swap(min_idx, max_idx);
-        }
+        int left = min(min_idx,max_idx);
+        int right = max(min_idx,max_idx);
 
-        int fromFront = max_idx + 1;
-        int fromBack = n - min_idx;
-        int bothSides = min_idx + 1 + n - max_idx;
-
-        return min({fromFront, fromBack, bothSides});        
+        return min({right+1, n-left, left+1+n-right});      
     }
 };
