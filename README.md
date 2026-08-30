@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
