@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3856-trim-trailing-vowels](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quicksort
 |  |
 | ------- |
