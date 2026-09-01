@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0283-move-zeroes) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
