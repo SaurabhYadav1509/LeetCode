@@ -1,0 +1,33 @@
+class Solution {
+public:
+    string smallestPalindrome(string s) {
+        int n = s.size();
+        string start ="";
+        string mid = "";
+        string end ="";
+        string ans = "";
+
+        if (n % 2 == 0){
+            for (int i=0; i<n/2 ;i++){
+                start += s[i];
+            }
+            sort(start.begin(),start.end());
+            end = start;
+            reverse(end.begin(),end.end());
+            ans = start + end;
+            return ans; 
+        }
+        
+        else{
+            for (int i=0; i<n/2 ;i++){
+                start += s[i];
+            }
+            sort(start.begin(),start.end());
+            end = start;
+            reverse(end.begin(),end.end());
+            mid = s[n/2];
+            ans = start + mid + end;
+            return ans; 
+        }
+    }
+};
