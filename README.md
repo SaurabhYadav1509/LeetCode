@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1952-three-divisors](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2485-find-the-pivot-integer](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
