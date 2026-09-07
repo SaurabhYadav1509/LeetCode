@@ -3,17 +3,15 @@ public:
     int countRotations(string s, int k) {
         int n = s.size();
         int result =0;
-        for (int r=0; r<n ; r++){
-            string rotated = s.substr(r) + s.substr(0,r);
-            
-            int len = 0;
-            for (int i=1; i<n ;i++){
-              if (rotated[i] == rotated[i-1]) len++;
+        for (int r=0 ; r<n ; r++){
+            string ans  = s.substr(r) + s.substr(0,r);
+
+            int count = 0;
+            for (int i=1; i<n; i++){
+                if (ans[i] == ans[i-1]) count++;
             }
-
-            if (len == k) result++;
+            if (count == k) result++;
         }
-
         return result;
     }
 };
