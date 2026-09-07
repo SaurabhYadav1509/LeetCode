@@ -2,16 +2,17 @@ class Solution {
 public:
     int countRotations(string s, int k) {
         int n = s.size();
-        int result =0;
-        for (int r=0 ; r<n ; r++){
-            string ans  = s.substr(r) + s.substr(0,r);
-
+        string ans = s + s;
+        int result=0;
+        for(int start=0; start<n; start++){
             int count = 0;
-            for (int i=1; i<n; i++){
+
+            for (int i=start+1; i<(start+n); i++){
                 if (ans[i] == ans[i-1]) count++;
             }
-            if (count == k) result++;
-        }
+            
+        if (count == k) result++;
+        } 
         return result;
     }
 };
