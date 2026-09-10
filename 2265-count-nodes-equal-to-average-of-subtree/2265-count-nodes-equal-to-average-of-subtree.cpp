@@ -13,24 +13,22 @@ class Solution {
 public:
 int findSum(TreeNode* root, int &count){
     if (root == NULL) return 0;
+    
     count++;
-
-    int leftSum = findSum(root->left, count);
-    int rightSum = findSum(root->right, count);
-
-    return leftSum + rightSum + root->val;
+    int left = findSum(root->left, count);
+    int right = findSum(root->right, count);
+    return left + right + root->val;
 }
     int averageOfSubtree(TreeNode* root) {
         if (root == NULL) return 0;
-        int ans =0;
-        int count = 0; 
+        int count=0;
+        int result =0;
 
         int sum = findSum(root,count);
-        if (root->val == sum/count) ans++;
+        if (root->val == sum/count) result++;
 
-        ans += averageOfSubtree(root->left);
-        ans += averageOfSubtree(root->right);
-
-        return ans;
+        result += averageOfSubtree(root->left);
+        result += averageOfSubtree(root->right);
+    return result;
     }
 };
