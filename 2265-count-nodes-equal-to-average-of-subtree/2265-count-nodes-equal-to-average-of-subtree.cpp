@@ -11,24 +11,23 @@
  */
 class Solution {
 public:
-int findSum(TreeNode* root, int &count){
-    if (root == NULL) return 0;
+int result;
+
+pair<int,int>solve(TreeNode* root){
+    if (root == NULL) return {0,0};
+    // pair-wise 
+    auto l = solve(root->left);
+    auto r = solve(root->right);
     
-    count++;
-    int left = findSum(root->left, count);
-    int right = findSum(root->right, count);
-    return left + right + root->val;
+    int sum = l.first + r.first + root->val;
+    int count = l.second + r.second + 1;
+
+    if (root->val == sum/count) result++;
+    return {sum,count}; 
 }
     int averageOfSubtree(TreeNode* root) {
-        if (root == NULL) return 0;
-        int count=0;
-        int result =0;
-
-        int sum = findSum(root,count);
-        if (root->val == sum/count) result++;
-
-        result += averageOfSubtree(root->left);
-        result += averageOfSubtree(root->right);
-    return result;
+        result = 0;
+        solve(root);
+        return result;
     }
 };
