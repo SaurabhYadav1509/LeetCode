@@ -1,40 +1,32 @@
 class Solution {
 public:
 
-    int solve(int amount, int index, vector<int>& coins,
-              vector<vector<int>>& dp) {
+int solve(int amount, vector<int>& coins, int idx, vector<vector<int>> &dp){
+    if (idx < 0)
+    return 0;
 
-        if (amount == 0)
-            return 1;
+    if (amount == 0)
+    return 1;
 
-        // No coins left
-        if (index >= coins.size())
-            return 0;
+    if (dp[idx][amount] != -1)
+    return dp[idx][amount];
+    
+    // not possible with current coins
+    if (amount < coins[idx])
+    return solve(amount, coins, idx-1, dp);
+    
+    // take or skip the current coins
+   else
+   return dp[idx][amount] = solve(amount-coins[idx], coins, idx, dp)+
+   solve(amount, coins, idx-1, dp);
 
-        // Amount became negative
-        if (amount < 0)
-            return 0;
-
-        if (dp[index][amount] != -1)
-            return dp[index][amount];
-
-        // Take the current coin
-        int take = solve(amount - coins[index], index, coins,dp);
-
-        // Skip the current coin
-        int skip = solve(amount, index + 1, coins, dp);
-
-        dp[index][amount] = take + skip;
-
-        return dp[index][amount];
-    }
+}
 
     int change(int amount, vector<int>& coins) {
-
         int n = coins.size();
+        vector<vector<int>>dp(n+1, vector<int>(amount+1, -1));
 
-        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
-
-        return solve(amount, 0, coins, dp);
+        return solve(amount, coins, n-1, dp);
+        
     }
 };
