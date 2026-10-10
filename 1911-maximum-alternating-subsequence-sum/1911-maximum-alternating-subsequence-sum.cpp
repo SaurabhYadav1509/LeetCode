@@ -1,31 +1,21 @@
+
 class Solution {
 public:
-    int n;
-    typedef long long ll;
-    vector<vector<ll>>arr;
-
-    ll solve(int idx, const vector<int> &nums, bool flag){
-        if (idx >= n)
-        return 0;
-
-        if (arr[idx][flag] != -1)
-        return arr[idx][flag];
-
-        ll skip = solve(idx+1, nums, flag);
-        
-        ll val = nums[idx];
-        if (flag == false)
-        val = -val;
-
-        ll take = solve(idx+1, nums, !flag) + val;
-
-        return arr[idx][flag] = max(take, skip);
-
-    }
     long long maxAlternatingSum(vector<int>& nums) {
-        n = nums.size();
-        arr.assign(n, vector<ll>(2, -1));
+        int n = nums.size();
 
-        return solve(0, nums, true);
+        vector<vector<long long>> t(n + 1, vector<long long>(2, 0));
+
+        for (int i = 1; i <= n; i++) {
+            // Even state
+            t[i][0] = max(t[i-1][1] - nums[i-1],
+                          t[i-1][0]);
+
+            // Odd state
+            t[i][1] = max(t[i-1][0] + nums[i-1],
+                          t[i-1][1]);
+        }
+
+        return max(t[n][0], t[n][1]);
     }
 };
