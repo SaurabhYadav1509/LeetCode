@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1037-valid-boomerang](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1037-valid-boomerang](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1037-valid-boomerang) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2235-add-two-integers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1037-valid-boomerang](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1037-valid-boomerang) |
 ## K-D Tree
 |  |
 | ------- |
