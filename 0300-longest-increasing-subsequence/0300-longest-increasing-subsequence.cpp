@@ -1,33 +1,21 @@
 class Solution {
 public:
-
-int n;
-int arr[2501][2501];
-
-int solve(vector<int>& nums, int idx, int p){
-    if (idx >= n)
-    return 0;
-
-    if ( p != -1 && arr[idx][p] != -1)
-    return arr[idx][p];
-    
-    int take = 0;
-    if (p == -1 || nums[p] < nums[idx]){
-      take = 1 + solve(nums, idx+1, idx);
-    }
-
-    int skip = solve(nums, idx+1, p);
-
-    if (p != -1)
-    arr[idx][p] = max(take, skip);
-
-    return max(take, skip);
-}
-
     int lengthOfLIS(vector<int>& nums) {
-        n = nums.size();
-        memset(arr, -1, sizeof(arr));
+        int n = nums.size();
+        vector<int>arr(n, 1);
+        
+        int maxLIS = 1;
 
-        return solve(nums, 0, -1);
+        for (int i=0; i<n; i++){
+            for (int j=0; j<i; j++){
+
+                if (nums[i] > nums[j]){
+
+                    arr[i] = max(arr[i], arr[j]+1);
+                    maxLIS = max(arr[i], maxLIS);
+                }
+            }
+        }
+        return maxLIS;
     }
 };
