@@ -1,23 +1,21 @@
 class Solution {
 public:
-
-int arr[38];
-
-int trib(int n){
-    if (n == 0)
-    return 0;
-
-    if (n <= 2)
-    return 1;
-
-    if (arr[n] != -1)
-    return arr[n];
-
-    return arr[n] = trib(n-1) + trib(n-2) + trib(n-3);
-
-}
     int tribonacci(int n) {
-     memset(arr, -1, sizeof(arr));
-     return trib(n);
+     if (n == 0)
+     return 0;
+
+     if (n == 1 || n == 2)
+     return 1;
+
+     int a = 0, b = 1, c =1;
+     int curr = 0;
+     for (int i=3; i<=n; i++){
+       curr = a + b + c;
+       
+       a = b;
+       b = c;
+       c = curr;
+     }
+     return c;
     }
 };
