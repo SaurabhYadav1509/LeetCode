@@ -1,34 +1,22 @@
 class Solution {
 public:
-
-int n;
-int arr[1001][1001];
-
-int solve(vector<vector<int>>& nums, int idx, int p){
-    if (idx >= n)
-    return 0;
-
-    if ( p != -1 && arr[idx][p] != -1)
-    return arr[idx][p];
-    
-    int take = 0;
-    if (p == -1 || nums[p][1] < nums[idx][0]){
-      take = 1 + solve(nums, idx+1, idx);
-    }
-
-    int skip = solve(nums, idx+1, p);
-
-    if (p != -1)
-    arr[idx][p] = max(take, skip);
-
-    return max(take, skip);
-}
-
     int findLongestChain(vector<vector<int>>& nums) {
-        n = nums.size();
-        memset(arr, -1, sizeof(arr));
+        int n = nums.size();
+        vector<int>arr(n, 1);
+        
         sort(nums.begin(), nums.end());
+        int maxLIS = 1;
 
-        return solve(nums, 0, -1);        
+        for (int i=0; i<n; i++){
+            for (int j=0; j<i; j++){
+
+                if (nums[i][0] > nums[j][1]){
+
+                    arr[i] = max(arr[i], arr[j]+1);
+                    maxLIS = max(arr[i], maxLIS);
+                }
+            }
+        }
+        return maxLIS;        
     }
 };
