@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1037-valid-boomerang) |
+| [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2235-add-two-integers) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Greedy
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
