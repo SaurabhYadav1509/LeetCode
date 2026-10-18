@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
