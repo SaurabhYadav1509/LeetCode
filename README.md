@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Binary Tree
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
