@@ -14,10 +14,12 @@ int solve(int i){
     return arr[i];
      
     int skip = solve(i+1);
-    
+
+ // checking the current elements points   
     int point = value[i]*mp[value[i]];
     int next = i+1;
 
+// if it is meeting the condition skip the next index by i + 2
     if (i+1 < value.size() && value[i+1] == value[i]+1){
        next = i+2;
     }
@@ -30,6 +32,8 @@ int solve(int i){
     int deleteAndEarn(vector<int>& nums) {
     
     memset(arr, -1, sizeof(arr));
+    mp.clear();
+    value.clear();
 
     for (auto x : nums)
     mp[x]++;
