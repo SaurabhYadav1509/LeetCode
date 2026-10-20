@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0740-delete-and-earn) |
+| [1025-divisor-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -505,4 +507,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
