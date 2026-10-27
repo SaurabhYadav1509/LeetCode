@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0118-pascals-triangle) |
@@ -555,5 +556,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0494-target-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
