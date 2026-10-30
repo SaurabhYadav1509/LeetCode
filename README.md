@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
