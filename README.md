@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
