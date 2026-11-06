@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0733-flood-fill) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0119-pascals-triangle-ii) |
