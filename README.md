@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -592,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0052-n-queens-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
