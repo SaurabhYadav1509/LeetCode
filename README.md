@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Linked List
 |  |
 | ------- |
