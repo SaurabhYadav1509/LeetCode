@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0494-target-sum) |
