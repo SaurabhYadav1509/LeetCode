@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1122-relative-sort-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1550-three-consecutive-odds](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1952-three-divisors) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -507,11 +510,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Counting Sort
 |  |
 | ------- |
