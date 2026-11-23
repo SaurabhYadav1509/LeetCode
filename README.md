@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
