@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
