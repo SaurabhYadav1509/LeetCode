@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/SaurabhYadav1509/LeetCode/tree/master/3360-stone-removal-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
