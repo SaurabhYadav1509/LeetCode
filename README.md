@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/SaurabhYadav1509/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhYadav1509/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
